@@ -4,7 +4,6 @@ yarn-error.log
 target
 node
 src/_tmp
-static
 dist
 coverage
 .nyc_output
