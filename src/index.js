@@ -9,7 +9,7 @@ import configStore from './common/configStore';
 import routeConfig from './common/routeConfig';
 import Root from './Root';
 
-const store = configStore();
+store = configStore();
 
 function renderApp(app) {
   render(
